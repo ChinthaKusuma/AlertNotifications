@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.bgContainer1 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.circle1 {
+  /* background-color: #2dca73; */
+  height: 30px;
+  width: 30px;
+  /* color: #2dca73; */
+  /* padding: 10px; */
+  border-radius: 12px;
+  margin-right: 5px;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+  color: #2dca73;
+}
+.one12 {
+  display: flex;
+  flex-direction: row;
+  color: #ff0b37;
+}
+.one13 {
+  display: flex;
+  flex-direction: row;
+  color: #ffb800;
+}
+.one14 {
+  display: flex;
+  flex-direction: row;
+  color: #0f81e0;
+}
+.two {
+  width: 50vw;
+  /* height: 10vh; */
+  border: 1px solid grey;
+  border-radius: 12px;
+  margin: 10px;
+}
+.gr {
+  display: flex;
+  width: 90vw;
+  justify-content: flex-end;
+}
+.para2 {
+  color: black;
+  /* font-weight: 500; */
+  padding-left: 20px;
+}
+.circle2 {
+  /* color: #ff0b37; */
+  height: 30px;
+  width: 30px;
+  /* color: #2dca73; */
+  /* padding: 10px; */
+  border-radius: 12px;
+  margin-right: 5px;
+}
